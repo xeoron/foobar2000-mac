@@ -1,0 +1,9 @@
+Desired result: Easily use the MS Windows program Foobar2000 on a Mac OS X
+
+Program Purpose: create a Mac OS X launcher program to run Foobar2000 instead of typing a long set of commands into a terminal
+
+Setup: 
+0) make sure X11 is installed
+1) use Macports to build and install Wine
+2) use Wine to install the latest release of Foobar2000 from foobar2000.org
+3) use this code to build a applescript binary to launch foobar2000
