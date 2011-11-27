@@ -4,11 +4,15 @@
 # 
 # 
 #for this to work it requires the following:
-#  0) X11 must be installed, if it is not, go grab it from apple's website or here: http://apple-x11.en.softonic.com
-#  1) macports installed, so you can then 
-#  2) install wine
-#  3) use wine to install Foobar2000 installer.
-#  4) finally, load this file into AppleScript Editor, compilei, and save it as a runable binary.
+#  0) X11 must be installed, if it is not, go grab it from apple's website
+#	 or here: http://apple-x11.en.softonic.com
+#  1) MacPorts must be installed -> macports.org  
+#  2) install wine. in a terminal use this command: 
+#	sudo port install wine
+#  3) Run wine to launch the Foobar2000 installer you grabbed from foobar2000.org. 
+#	In the terminal: 
+#	wine ./foobarinstaller.exe
+#  4) finally, load this file into AppleScript Editor, compile, and save it as a runable binary.
 
 try
 	do shell script "export WINEPREFIX=$HOME/.wine; 
