@@ -1,9 +1,11 @@
 # Jason Campisi | v2 9/20/11
 # Launch the MS Windows music program Foobar2000 under Wine 
-
+# Release under GPL 3
+#
 #for this to work it requires the following:
-#  1) mac ports installed, so you can then 2) install wine, finally 3) use wine to install Foobar2000 installer.
-### change from v1-- no longer need to install a wine/foobar2000 launching bash script.
+#  1) macports installed, so you can then 
+#  2) install wine
+#  3) use wine to install Foobar2000 installer.
 
 try
 	do shell script "export WINEPREFIX=$HOME/.wine; 
