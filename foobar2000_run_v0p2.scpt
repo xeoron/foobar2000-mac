@@ -1,6 +1,6 @@
 # Jason Campisi | v2 9/20/11
 # Launch the MS Windows music program Foobar2000 under Wine 
-# Release under GPL 3
+# Released under GPL 3
 #
 #for this to work it requires the following:
 #  1) macports installed, so you can then 
