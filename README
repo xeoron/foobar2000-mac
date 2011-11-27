@@ -7,3 +7,4 @@ Setup:
 1) use Macports to build and install Wine
 2) use Wine to install the latest release of Foobar2000 from foobar2000.org
 3) use this code to build a applescript binary to launch foobar2000
+
