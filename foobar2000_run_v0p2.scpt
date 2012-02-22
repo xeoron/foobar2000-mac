@@ -14,8 +14,15 @@
 #	wine ./foobarinstaller.exe
 #  4) finally, load this file into AppleScript Editor, compile, and save it as a runable binary.
 
-try
-	do shell script "export WINEPREFIX=$HOME/.wine; 
-export DYLD_FALLBACK_LIBRARY_PATH=/usr/X11/lib;
-exec /opt/local/bin/wine $HOME/.wine/dosdevices/c\\:/Program\\ Files/foobar2000/foobar2000.exe 2>/dev/null &"
-end try
+
+
+on run
+	try
+		set setPath to "export WINEPREFIX=$HOME/.wine; export DYLD_FALLBACK_LIBRARY_PATH=/usr/X11/lib;"
+		set wine to "exec /opt/local/bin/wine"
+		set foobar2000 to "$HOME/.wine/dosdevices/c\\:/Program\\ Files/foobar2000/foobar2000.exe"
+		set ignoreErrors to "2>/dev/null &"
+		
+		do shell script setPath & space & wine & space & foobar2000 & space & ignoreErrors
+	end try
+end run
