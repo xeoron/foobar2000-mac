@@ -3,7 +3,7 @@ Desired result: Easily start an instance of the MS Windows program Foobar2000 on
 Program Purpose: create a Mac OS X launcher program to run Foobar2000 instead of typing a long set of commands into a terminal
 
 Setup: 
-0) X11 must be installed, if it is not, go grab it from apple's website or here: 
+0) X11 must be installed, if it is not, go grab it from apple's website here: 
     http://apple-x11.en.softonic.com
 1) MacPorts must be installed. Download it here:
     macports.org  
