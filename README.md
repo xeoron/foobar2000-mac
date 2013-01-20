@@ -1,6 +1,6 @@
 Foobar2000mac
 ===========
-A front-end launcher program for MS Windows program Foobar2000 on a Mac OS X that is running under WINE
+A front-end launcher program for Foobar2000 on Mac OS X that is running under WINE
 
 Setup:
 ======
