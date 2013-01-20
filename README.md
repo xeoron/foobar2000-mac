@@ -1,4 +1,4 @@
-Foobar2000mac
+Foobar2000mac:
 ===========
 A front-end launcher program for Foobar2000 on Mac OS X that is running under WINE
 
