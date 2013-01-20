@@ -1,4 +1,4 @@
-# Jason Campisi | v2 9/20/11
+#Jason Campisi | v2 9/20/11
 # Purpose: Launch the MS Windows music program Foobar2000 under Wine 
 # Released under GPL 3
 # 
@@ -13,8 +13,6 @@
 #	In the terminal: 
 #	wine ./foobarinstaller.exe
 #  4) finally, load this file into AppleScript Editor, compile, and save it as a runable binary.
-
-
 
 on run
 	try
