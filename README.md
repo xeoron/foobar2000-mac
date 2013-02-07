@@ -9,6 +9,7 @@ Setup:
     http://apple-x11.en.softonic.com
 
 1) MacPorts must be installed. Download it here:
+
     macports.org  
 
 2) In a terminal use this command to install wine: 
