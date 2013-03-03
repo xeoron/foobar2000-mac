@@ -1,3 +1,5 @@
+<img src="https://github.com/xeoron/macfoobar2000/blob/master/images/foobar2000mac.png"/>
+
 Foobar2000mac:
 ===========
 A front-end launcher program for Foobar2000 on Mac OS X that is running under WINE. If you have wine installed, this script merely creates a launcher app for running foobar2000, therefore you can not have a foobar2000 launcher pinned to your Dock or accessable in Launchpad 
