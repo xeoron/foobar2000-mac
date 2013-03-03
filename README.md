@@ -1,4 +1,4 @@
-Foobar2000mac:
+Foobar2000 mac:
 ===========
 <img src="https://raw.github.com/xeoron/macfoobar2000/master/images/foobar2000mac.png"/>
 
