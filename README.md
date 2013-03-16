@@ -38,3 +38,6 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
 5) finally, load the code into AppleScript Editor, compile, and save it as a runable binary in your Applications folder.
 
+Alternatives:
+=====
+If you prefer a simplier to get Foobar2000 running with a launche app then maybe <a href="http://www.codeweavers.com/">CrossOver</a> is a better choice, but doing so you won't have the MacPorts repository of programs you can natively build and install.
