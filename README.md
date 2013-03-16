@@ -40,4 +40,4 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
 Alternatives:
 =====
-If you prefer a simplier to get Foobar2000 running with a launche app then maybe <a href="http://www.codeweavers.com/">CrossOver</a> is a better choice, but doing so you won't have the MacPorts repository of programs you can natively build and install.
+If you prefer a simplier way get Foobar2000 running on OS X, then maybe <a href="http://www.codeweavers.com/">CrossOver</a> is a better choice, but doing so you won't have the MacPorts repository of programs you can natively build and install.
