@@ -1,3 +1,5 @@
+#! /usr/bin/osascript
+
 (*
  Jason Campisi | v2 9/20/11
  Purpose: Launch the MS Windows music program Foobar2000 under Wine 
