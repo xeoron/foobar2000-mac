@@ -8,6 +8,9 @@ Who is this for:
 ========
 Anyone who wants to run Foobar2000 using the MS Windows compatibility layer called <a href="http://www.winehq.org">Wine</a> and have a easy to use launcher program to start it. The benefits of this approach are
 
+	0) You rather click on something to run the program, instead of having to type into a terminal
+	wine $HOME/.wine/dosdevices/c\:/Program\ Files/foobar2000/foobar2000.exe
+	
 	1) You can run many other Windows programs without running a full copy of MS Windows, 
 	so no Paralells, VM Ware, or Virtual Box hogging a full system worth of resources 
 	just to run the 1 program you want to use.
@@ -65,7 +68,10 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar2000.png"/>
 
-5) Finally, copy Foobar2000.app into your Application folder.
+5) Finally, install the launcher app by copying Foobar2000.app into your Application folder. Next,
+
+	1) If you want it to stay in your Dock, then drag it onto it from the Applications folder
+	2) If you want it to be findable in Launchpad, then drag it onto it from the Applications folder
 
 
 Alternatives:
