@@ -63,7 +63,12 @@ otherwise download and install the JRE from
     
     sudo port install wine
 
-   Depending on the speed of your computer, it might take a few hours to build and install wine, along with all it's resources it requires.
+ Depending on the speed of your computer, it might take a few hours to build and install wine, along with all it's resources it requires.
+
+ If you want to search for other Port programs use this command
+ 
+ 	port search key-word-to-find
+
 
 4) Grab a copy of foobar2000. Download it here:
     
