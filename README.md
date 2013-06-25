@@ -24,7 +24,7 @@ After running Foobar2000 with Wine on Ubuntu GNU/Linux in 2011, the next step, n
 
 Setup:
 ======
-Setting this up is not for the faint of heart. Installing X11, Java RE, MacPorts, Xcode, Wine first is a pain, but doing so gives you access to all the *nix terminal programs Apple failed to include in OS X.
+If you have Wine already installed, then skip to Step 4. Otherwise you should know that setting this up is not for the faint of heart, but you will learn much along the way. Installing X11, Java RE, MacPorts, Xcode, Wine first is a pain, but doing so gives you access to all the *nix terminal programs Apple failed to include in OS X.
 Things go more smoothly by following this setup order:
 
 0) X11 must be installed. If you don't know what it is or never installed it on your Mac (it's a seperate OS X add-on Apple releases), then go grab it from apple's website here: 
