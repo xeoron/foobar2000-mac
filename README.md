@@ -65,7 +65,8 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar2000.png"/>
 
-5) finally, load the code into AppleScript Editor, compile, and save it as a runable binary in your Applications folder.
+5) Finally, copy Foobar2000.app into your Application folder.
+
 
 Alternatives:
 =====
