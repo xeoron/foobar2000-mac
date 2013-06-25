@@ -18,9 +18,17 @@ Anyone who wants to run Foobar2000 using the MS Windows compatibility layer call
 	2) Install and run other unix programs that Apple did not include with OS X. 
 	This includes thousands of free terminal and GUI programs.
 	
-History: 
+Requirements:
 ========
-After running Foobar2000 with Wine on Ubuntu GNU/Linux in 2011, the next step, naturally, was to run it on OS X, but this time create a native launcher program.
+See the *Setup* section for the guide, so that your Mac will have these required programs
+
+	Java
+	X11
+	MacPorts
+	Xcode and Command Line Tools
+	Wine
+	foobar2000 installer
+	foobar2000-mac.app  
 
 Setup:
 ======
