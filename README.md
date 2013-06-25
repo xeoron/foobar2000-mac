@@ -27,7 +27,7 @@ Setup:
 Setting this up is not for the faint of heart. Installing Mac Ports is a pain, but doing so gives you access to all the *nix terminal programs Apple failed to include in OS X.
 Things go more smoothly by following this setup order:
 
-0) X11 must be installed, if it is not, go grab it from apple's website here: 
+0) X11 must be installed. If you don't know what it is (it's a graphics server for *nux programs) or never installed it on your Mac (it's a seperate OS X add-on Apple releases), then go grab it from apple's website here: 
 
     http://apple-x11.en.softonic.com
 
