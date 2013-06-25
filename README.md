@@ -1,6 +1,6 @@
 Foobar2000 mac:
 ===============
-<img src="https://raw.github.com/xeoron/macfoobar2000/master/images/foobar2000mac.png"/>
+<img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/foobar2000mac.png"/>
 
 A front-end launcher program for Foobar2000 on Mac OS X that is running under WINE. If you have wine installed, this script merely creates a launcher app for running foobar2000, therefore Foobar2000mac is now accessible in Launchpad and/or can be pinned to your Dock. 
 
@@ -36,7 +36,7 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
     sudo port selfupdate
     sudo port upgrade outdated
-    <img src="https://raw.github.com/xeoron/macfoobar2000/master/images/update_ports.png"/>
+    <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/update_ports.png"/>
     
     sudo port install wine
 
@@ -49,7 +49,7 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 4) Run wine to launch the Foobar2000 installer. In the terminal: 
 
     wine Downloads/foobarinstaller.exe
-    <img src="https://raw.github.com/xeoron/macfoobar2000/master/images/install_foobar.png"/>
+    <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar.png"/>
 
 5) finally, load the code into AppleScript Editor, compile, and save it as a runable binary in your Applications folder.
 
