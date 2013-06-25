@@ -28,7 +28,7 @@ See the *Setup* section for the guide, so that your Mac will have these required
 	Xcode and Command Line Tools
 	Wine
 	foobar2000 installer
-	foobar2000-mac.app  
+	foobar2000mac.app  
 
 Setup:
 ======
@@ -89,7 +89,7 @@ otherwise download and install the JRE from here:
 
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar2000.png"/>
 
-6) Finally, install the launcher app by copying Foobar2000.app into your Application folder. Next,
+6) Finally, install the launcher app by copying Foobar2000mac.app into your Application folder. Next,
 
 	1) If you want it to stay in your Dock, then drag it onto it from the Applications folder
 	2) If you want it to be findable in Launchpad, then drag it onto it from the Applications folder
