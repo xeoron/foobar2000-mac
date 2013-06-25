@@ -36,7 +36,8 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
     sudo port selfupdate
     sudo port upgrade outdated
-    <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/update_ports.png"/>
+
+<img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/update_ports.png"/>
     
     sudo port install wine
 
@@ -49,7 +50,8 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 4) Run wine to launch the Foobar2000 installer. In the terminal: 
 
     wine Downloads/foobarinstaller.exe
-    <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar.png"/>
+
+<img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar.png"/>
 
 5) finally, load the code into AppleScript Editor, compile, and save it as a runable binary in your Applications folder.
 
