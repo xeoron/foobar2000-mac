@@ -27,19 +27,20 @@ Setup:
 If you have Wine already installed, then skip to Step 4. Otherwise you should know that setting this up is not for the faint of heart, but you will learn much along the way. Installing X11, Java RE, MacPorts, Xcode, Wine first is a pain, but doing so gives you access to all the *nix terminal programs Apple failed to include in OS X.
 Things go more smoothly by following this setup order:
 
-0) X11 must be installed. If you don't know what it is or never installed it on your Mac (it's a seperate OS X add-on Apple releases), then go grab it from apple's website here: 
+0) X11 must be installed. If you don't know what it is or never installed it on your Mac (it's a seperate OS X add-on Apple releases), then go grab it from this website here: 
 
-    http://apple-x11.en.softonic.com
+	http://apple-x11.en.softonic.com
 
-1) Java must be installed. Check to see if Java in installed by opening a terminal and typing: 
+1) Java Runtime Environment (JRE) must be installed. Check to see if Java in installed by opening a terminal and typing: 
 
 	java -version 
 	
 If it is then it will show you what version you have, 
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/check_java_version.png"/>
-otherwise download and install the JRE from
 
-	java.com 
+otherwise download and install the JRE from here:
+
+	http://java.com/en/download/mac_download.jsp?locale=en 
 	
 2) MacPorts must be installed. Ports gives you access to a repository like Linux has to find, install, and update thousands of free *nix programs that Apple left out. It does this by grabbing the software code required to build into a runnable program, builds, and installs it. It may take longer than downloading and installing a program that is ready to install, but programs and their dependencies are more likely to run better and faster, since it was built for your exact setup instead of being built for all setups. Download it here:
 
