@@ -32,7 +32,7 @@ See the *Setup* section for the guide, so that your Mac will have these required
 
 Setup:
 ======
-If you have Wine already installed, then skip to Step 4. Otherwise you should know that setting this up is not for the faint of heart, but you will learn much along the way. Installing X11, Java RE, MacPorts, Xcode, Wine first is a pain, but doing so gives you access to all the *nix terminal programs Apple failed to include in OS X.
+If you have Wine already installed, then skip to Step 4. Otherwise you should know that setting this up is not for the faint of heart, but you will learn much along the way. Installing X11, Java RE, MacPorts, Xcode, Wine is a bit time consuming, but it is worth it.
 Things go more smoothly by following this setup order:
 
 0) X11 must be installed. If you don't know what it is or never installed it on your Mac (it's a seperate OS X add-on Apple releases), then go grab it from this website here: 
@@ -43,10 +43,10 @@ Things go more smoothly by following this setup order:
 
 	java -version 
 	
-If it is then it will show you what version you have, 
+If you do have Java installed, then it will show you what version you have, 
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/check_java_version.png"/>
 
-otherwise download and install the JRE from here:
+otherwise, download and install the JRE from here:
 
 	http://java.com/en/download/mac_download.jsp?locale=en 
 	
