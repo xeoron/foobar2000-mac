@@ -25,7 +25,7 @@ After running Foobar2000 with Wine on Ubuntu GNU/Linux in 2011, the next step, n
 Setup:
 ======
 Setting this up is not for the faint of heart. Installing Mac Ports is a pain, but doing so gives you access to all the *nix terminal programs Apple failed to include in OS X.
-Things go more smoothly if you following setup order that follows:
+Things go more smoothly by following this setup order:
 
 0) X11 must be installed, if it is not, go grab it from apple's website here: 
 
