@@ -8,8 +8,12 @@ Who is this for:
 ========
 Anyone who wants to run Foobar2000 using the MS Windows compatibility layer called <a href="http://www.winehq.org">Wine</a> and have a easy to use launcher program to start it. The benefits of this approach are
 
-	1) You can run many other Windows programs without running a full copy of MS Windows, so no Paralells, VM Ware, or Virtual Box hogging a full system worth of resources just to run the 1 program you want to use.
-	2) Install and run other unix programs that Apple did not include with OS X. This includes thousands of free terminal and GUI programs.
+	1) You can run many other Windows programs without running a full copy of MS Windows, 
+	so no Paralells, VM Ware, or Virtual Box hogging a full system worth of resources 
+	just to run the 1 program you want to use.
+	
+	2) Install and run other unix programs that Apple did not include with OS X. 
+	This includes thousands of free terminal and GUI programs.
 	
 History: 
 ========
@@ -28,9 +32,17 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
  This has a few steps which cost nothing but time, which are 
 	
 	a) Download and install the macports installer from macports.org
-	b) Check to see if Java in installed by opening a terminal and typing *java -version* if it is then it will show you what version you have, otherwise download from java.com and install it
+	
+	b) Check to see if Java in installed by opening a terminal and typing: java -version 
+	if it is then it will show you what version you have, otherwise download from java.com 
+	and install it
+	
 	c) Install Xcode from Apple's *App Store*. It's free.
-	d) Install the Apple's Command Line Developer Tools. Run Xcode, agree to the End User License, skip creating/opeing a project and go to the menu and select Xcode -> Preferences, and then click the *Downloads* section; finally, click on the *Install* Command Line Tools option
+	
+	d) Install the Apple's Command Line Developer Tools. Run Xcode, agree to the 
+	End User License, skip creating/opeing a project and go to the menu and select 
+	Xcode -> Preferences, and then click the *Downloads* section; finally, click 
+	on the Install "Command Line Tools" option
 
 2) Once MacPorts is installed, then in a terminal use these command to update Ports, then install Wine: 
 
@@ -51,7 +63,7 @@ Setting this up is not for the faint of heart. Installing Mac Ports is a pain, b
 
     wine Downloads/foobarinstaller.exe
 
-<img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar.png"/>
+<img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/install_foobar2000.png"/>
 
 5) finally, load the code into AppleScript Editor, compile, and save it as a runable binary in your Applications folder.
 
