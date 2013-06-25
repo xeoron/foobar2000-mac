@@ -34,6 +34,8 @@ Things go more smoothly if you following setup order that follows:
 1) Java must be installed. Check to see if Java in installed by opening a terminal and typing: 
 
 	java -version 
+
+<img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/check_java_version.png"/>
 	
 If it is then it will show you what version you have, otherwise download and install the JRE from
 
