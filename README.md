@@ -20,7 +20,7 @@ Anyone who wants to run Foobar2000 using the MS Windows compatibility layer call
 	
 Requirements:
 ========
-See the *Setup* section to guide for setting up these required programs
+See the *Setup* section guide for setting up these required programs
 
 	Java
 	X11
