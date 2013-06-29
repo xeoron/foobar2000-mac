@@ -39,7 +39,7 @@ Things go more smoothly by following this setup order:
 
 	http://apple-x11.en.softonic.com
 
-1) Java Runtime Environment (JRE) must be installed. Check to see if Java in installed by opening a terminal and typing: 
+1) Java Runtime Environment (JRE) must be installed. Check to see if Java is installed by opening a terminal and typing: 
 
 	java -version 
 	
