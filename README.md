@@ -68,12 +68,15 @@ otherwise, download and install the JRE from here:
     sudo port selfupdate
     sudo port upgrade outdated
 
+Note: 
+	 If installing a new port program or upgrading outdated fails, restart your computer and try again. 
+	 This will clear out your system temp folder, and it will often fix any install problems.
+
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/update_ports.png"/>
     
     sudo port install wine
 
  Depending on the speed of your computer, it might take a few hours to build and install wine, along with all it's resources it requires.
- If installed a new port program fails or upgrading fails, restart your computer and try again. This will clear out your system temp folder, and it will often fix any install programs.
 
  If you want to search for other Port programs use this command
  
