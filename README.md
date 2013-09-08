@@ -59,7 +59,7 @@ otherwise, download and install the JRE from here:
 	b) Install Xcode from Apple's *App Store*. It's free.
 	
 	c) Install the Apple's Command Line Developer Tools. Run Xcode, agree to the 
-	End User License, skip creating/opeing a project and go to the menu and select 
+	End User License, skip creating/opening a project and go to the menu and select 
 	Xcode -> Preferences, and then click the *Downloads* section; finally, click 
 	on the Install "Command Line Tools" option
 
@@ -73,6 +73,7 @@ otherwise, download and install the JRE from here:
     sudo port install wine
 
  Depending on the speed of your computer, it might take a few hours to build and install wine, along with all it's resources it requires.
+ If installed a new port program fails or upgrading fails, restart your computer and try again. This will clear out your system temp folder, and it will often fix any install programs.
 
  If you want to search for other Port programs use this command
  
