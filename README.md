@@ -8,7 +8,7 @@ Who is this for:
 ========
 Anyone who wants to run Foobar2000 using the MS Windows compatibility layer called <a href="http://www.winehq.org">Wine</a> and have a easy to use launcher program to start it. The benefits of this approach are
 
-	0) You rather click on something to run the program, instead of having to type into a terminal
+	0) You rather click on something to run the program or launch from spotlight, instead of having to type into a terminal
 	wine $HOME/.wine/dosdevices/c\:/Program\ Files/foobar2000/foobar2000.exe
 	
 	1) You can run many other Windows programs without running a full copy of MS Windows, 
