@@ -24,18 +24,18 @@ Requirements:
 See the *Setup* section guide for setting up these required programs
 
 Homebrew Method
-	foobar2000 installer
-	foobar2000Mac Launcher.app
-	Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/#part-5:-run-windows-programs-using-wine">Brew Wine Setup Guide</a>
+0) foobar2000 installer
+1) foobar2000Mac Launcher.app
+2) Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/#part-5:-run-windows-programs-using-wine">Brew Wine Setup Guide</a>
 
 MacPorts Method
-	Java
-	X11
-	MacPorts
-	Xcode and Command Line Tools
-	Wine
-	foobar2000 installer
-	foobar2000Mac.app  
+0) Java
+1) X11
+2) MacPorts
+3) Xcode and Command Line Tools
+4) Wine
+5) foobar2000 installer
+6) foobar2000Mac.app  
 
 MacPorts Setup:
 ======
