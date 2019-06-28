@@ -13,8 +13,9 @@
 #	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 #	brew doctor
 #	sudo xcodebuild -license
-# 2) XQuartz must be installed, if it is not run this cmd: brew cask install xquartz
-# 3) install wine. in a terminal use this command: 
+# 2) XQuartz must be installed, so in a terminal use this command:  
+#	brew cask install xquartz
+# 3) install WINE, therefore in a terminal use this command: 
 #	brew install wine
 # 4) Run wine to launch the Foobar2000 installer you grabbed from foobar2000.org. 
 #	In the terminal: 
