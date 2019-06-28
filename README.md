@@ -23,15 +23,10 @@ Requirements:
 ========
 See the *Setup* section guide for setting up these required programs
 
-Brew Method:
-	Xcode and Command Line Tools
-	Brew
-	XQuartz
-	Wine
+Homebrew Method
 	foobar2000 installer
 	foobar2000Mac Launcher.app
 	Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/#part-5:-run-windows-programs-using-wine">Brew Wine Setup Guide</a>
-
 
 MacPorts Method
 	Java
