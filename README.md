@@ -25,7 +25,7 @@ Requirements:
 Homebrew Method
 
 0) foobar2000 installer
-1) foobar2000Mac Launcher.app <-- See the *Setup* section guide for setting up these required programs
+1) foobar2000Mac Launcher.app <-- See the *Setup* section guide for setting up this
 2) Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/#part-5:-run-windows-programs-using-wine">Brew Wine Setup Guide</a>
 
 MacPorts Method See the *Setup* section guide for setting up these required programs
