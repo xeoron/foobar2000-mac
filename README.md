@@ -1,4 +1,4 @@
-Foobar2000 mac:
+Foobar2000 mac: MacPorts and Homebrew Versions
 ===============
 <img src="https://raw.github.com/xeoron/foobar2000-mac/master/images/foobar2000mac.png"/>
 
