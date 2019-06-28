@@ -23,15 +23,26 @@ Requirements:
 ========
 See the *Setup* section guide for setting up these required programs
 
+Brew Method:
+	Xcode and Command Line Tools
+	Brew
+	XQuartz
+	Wine
+	foobar2000 installer
+	foobar2000Mac Launcher.app
+	Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/#part-5:-run-windows-programs-using-wine">Brew Wine Setup Guide</a>
+
+
+MacPorts Method
 	Java
 	X11
 	MacPorts
 	Xcode and Command Line Tools
 	Wine
 	foobar2000 installer
-	foobar2000mac.app  
+	foobar2000Mac.app  
 
-Setup:
+MacPorts Setup:
 ======
 If you have Wine already installed, then skip to Step 4. Otherwise you should know that setting this up is not for the faint of heart, but you will learn much along the way. Installing X11, Java RE, MacPorts, Xcode, Wine is a bit time consuming, but it is worth it.
 Things go more smoothly by following this setup order:
