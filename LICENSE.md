@@ -1,7 +1,7 @@
 foobar2000Mac
 =====
 	Author:  Jason Campisi
-	Date: 	 2011->2014
+	Date: 	 2011->2019
 	IgnoreError Patch by BoctorPoo
 
 	License: Is released under GPL v2 or higher. See this location for details 
