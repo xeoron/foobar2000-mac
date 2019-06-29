@@ -22,23 +22,41 @@ Anyone who wants to run Foobar2000 using the MS Windows compatibility layer call
 Requirements:
 ========
 
-Homebrew Method
+Homebrew Method is faster to setup and easier manage
 
-0) foobar2000 installer
+0) foobar2000 installer <a href="https://foobar2000.org/" target="_blank">Go Here</a>
 1) foobar2000Mac Launcher.app <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">Download Brew Version</a>
-2) Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/#part-5:-run-windows-programs-using-wine">Brew Wine Setup Guide</a>
+2) XCode and Command Line Tools
+3) Homebrew
+3) Wine
+4) XQaurtz
 
 MacPorts Method See the *Setup* section guide for setting up these required programs
 
 0) Java
 1) X11
 2) MacPorts
-3) Xcode and Command Line Tools
+3) XCode and Command Line Tools
 4) Wine
-5) foobar2000 installer
+5) foobar2000 installer <a href="https://foobar2000.org/" target="_blank">Go Here</a>
 6) foobar2000Mac Launcher.app  <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">Download MacPorts Version</a>  
 
-MacPorts Setup:
+
+Installing foobar2000Mac Launcher:
+======
+How-to: Download the launcher, unzip it, and drag it into the Applications folder. Now you can use access it with Launchpad, Spotlight, Alfred and even pin to the Dock.
+
+	Homebrew Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>
+	Macports Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>  
+	
+
+Homebrew Setup:
+======
+	
+		Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/" target="_blank">Brew & Wine Setup Guide</a>
+		
+		
+MacPorts Setup: 
 ======
 If you have Wine already installed, then skip to Step 4. Otherwise you should know that setting this up is not for the faint of heart, but you will learn much along the way. Installing X11, Java RE, MacPorts, Xcode, Wine is a bit time consuming, but it is worth it.
 Things go more smoothly by following this setup order:
