@@ -22,24 +22,17 @@ Anyone who wants to run Foobar2000 using the MS Windows compatibility layer call
 Requirements:
 ========
 
-Homebrew Method is faster to setup and easier manage
+Homebrew Method 
 
-0) foobar2000 installer <a href="https://foobar2000.org/">Go Here</a>
-1) foobar2000Mac Launcher.app <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">Download Brew Version</a>
-2) XCode and Command Line Tools
-3) Homebrew
-3) Wine
-4) XQaurtz
+0) Homebrew and WINE
+1) foobar2000 installer <a href="https://foobar2000.org/">Go Here</a>
+2) foobar2000Mac Launcher.app <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">Download Brew Version</a>
 
-MacPorts Method See the *Setup* section guide for setting up these required programs
+MacPorts Method 
 
-0) Java
-1) X11
-2) MacPorts
-3) XCode and Command Line Tools
-4) Wine
-5) foobar2000 installer <a href="https://foobar2000.org/">Go Here</a>
-6) foobar2000Mac Launcher.app  <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">Download MacPorts Version</a>  
+0) MacPorts and WINE
+1) foobar2000 installer <a href="https://foobar2000.org/">Go Here</a>
+3) foobar2000Mac Launcher.app  <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">Download MacPorts Version</a>  
 
 
 Installing foobar2000Mac Launcher:
