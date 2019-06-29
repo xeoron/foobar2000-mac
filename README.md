@@ -46,7 +46,7 @@ How-to: Download the launcher, unzip it, and drag it into the Applications folde
 Homebrew Setup:
 ======
 	
-Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/" target="_blank">Brew & Wine Setup Guide</a>
+Brew is easier to setup and use. Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/" target="_blank">Brew & Wine Setup Guide</a>
 		
 		
 MacPorts Setup: 
