@@ -46,14 +46,14 @@ Installing foobar2000Mac Launcher:
 ======
 How-to: Download the launcher, unzip it, and drag it into the Applications folder. Now you can use access it with Launchpad, Spotlight, Alfred and even pin to the Dock.
 
-	Homebrew Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>
-	Macports Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>  
+Homebrew Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>
+Macports Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>  
 	
 
 Homebrew Setup:
 ======
 	
-		Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/" target="_blank">Brew & Wine Setup Guide</a>
+Go here for the <a href="https://www.davidbaumgold.com/tutorials/wine-mac/" target="_blank">Brew & Wine Setup Guide</a>
 		
 		
 MacPorts Setup: 
