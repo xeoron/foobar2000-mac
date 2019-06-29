@@ -44,7 +44,7 @@ MacPorts Method See the *Setup* section guide for setting up these required prog
 
 Installing foobar2000Mac Launcher:
 ======
-How-to: Download the launcher, unzip it, and drag it into the Applications folder. Now you can use access it with Launchpad, Spotlight, Alfred and even pin to the Dock.
+How-to: Download the launcher, unzip it, and drag it into the Applications folder. Next, access it with <a href="https://support.apple.com/en-us/HT202635">Launchpad</a>, <a href="https://support.apple.com/en-us/HT204014">Spotlight</a>, <a href="https://www.alfredapp.com/">Alfred</a> and even pin to the Dock.
 
 0) Homebrew Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>
 1) Macports Version <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">foobar2000Mac Launcher.app</a>  
