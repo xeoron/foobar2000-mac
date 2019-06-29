@@ -24,13 +24,13 @@ Requirements:
 
 Homebrew Method 
 
-0) Homebrew and WINE
+0) Homebrew and WINE - See setup guide below
 1) foobar2000 installer <a href="https://foobar2000.org/">Go Here</a>
 2) foobar2000Mac Launcher.app <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Homebrew-Version/foobar2000Mac_Launcher.app.zip">Download Brew Version</a>
 
 MacPorts Method 
 
-0) MacPorts and WINE
+0) MacPorts and WINE - See setup guide below
 1) foobar2000 installer <a href="https://foobar2000.org/">Go Here</a>
 3) foobar2000Mac Launcher.app  <a href="https://raw.github.com/xeoron/foobar2000-mac/master/install/Macports-Version/foobar2000Mac_Launcher.app.zip">Download MacPorts Version</a>  
 
